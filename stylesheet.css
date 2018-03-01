@@ -1,0 +1,243 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    width: 970px;
+    height: auto;
+    margin: 0 auto;
+    
+}
+.globe{
+    height: 90px;
+    width: 90px;
+    display: inline-block;
+    position: absolute;
+    margin-bottom: 30px;
+    margin-left: 10px;
+}
+.internet{
+    display: inline-block;
+    font-size: 35px;
+    font-family: arial;
+    margin-left: 100px;
+    margin-top: 30px;
+}
+.container .internet span{
+    color: #3A73A2;
+}
+.header{
+    width: 960px;
+    height: 40px;
+    font-family: arial;
+    font-size: 28px;
+    background-color:#4E81A9;
+    color: white;
+    padding-top: 17px;
+    padding-left: 10px;
+    font-weight: normal;
+}
+.main{
+    width: 970px;
+    height: auto;
+}
+.left{
+    width: 178px;
+    height: 500px;
+    display: inline-block;
+}
+.top_half{
+    width: 178px;
+    height: 180px;
+    border-bottom: 1px solid silver;
+}
+.left_story h4{
+    margin-top: 12px;
+    margin-left: 7px;
+    font-family: arial;
+    font-size: 15px;
+    font-weight: normal;
+}
+.left_story p span{
+    color: #3A73A2;
+    margin-top: 10px;
+}
+.left_story h4 span{
+    color: red;
+}
+.left_story p{
+    margin-left:4px;
+    font-size: 13px;
+    margin-bottom: 5px;
+}
+.button1{
+    font-size: 20px;
+    display: block;
+    height: 35px;
+    width: 170px;
+    margin-bottom: 3px;
+    background-color: #3D79AA;
+    color: white;
+    border-radius: 8px;  
+    margin-left: 10px; 
+}
+.button2{
+    font-size: 20px;
+    display: block;
+    height: 35px;
+    width: 170px;
+    background-color: rgb(234, 161, 76);
+    color: white;
+    border-radius: 8px;
+    margin-left: 10px;
+}
+.right{
+    height: 300px;
+    width: 750px;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 36px;
+}
+.upper{
+    height: 70px;
+    width: 750px;
+    display: block;
+
+}
+.dns{
+    height: 60px;
+    width: 300px;
+    display: inline-block;
+    vertical-align: top;
+}
+.dns img{
+    height: 18px;
+    width: 18px;
+    display: inline block;
+    margin-top: 7px;
+}
+.dns p{
+    display: inline-block;
+    font-size: 17px;
+    color:#4E81A9; 
+}
+#phone{
+    height: 32px;
+    width: 32px;
+    margin-left: 260px;
+    margin-top: 10px;
+}
+.contact h4{
+    color: #20C6DF;
+    font-size: 25px;
+    text-align: right;
+}
+.contact h6{
+    font-weight: normal;
+    text-align: right;
+}
+.contact{
+    display: inline-block;
+    height: 60px;
+    width: 140px;
+    vertical-align: top;
+}
+.client_server, .so_what{
+    height: 200px;
+    width: 740px;
+}
+.client_server{
+    border-top: solid grey 1px;
+}
+.client_server h3, .client_server p, .so_what h3{
+    margin-left: 20px;
+}
+.client_server ul li, .so_what ol li{
+    margin-left: 48px;
+}
+.client_server h3, .so_what h3{
+    color: #3A73A2;
+    font-family: arial;
+}
+.client_server p span, .client_server ul li span, .so_what ol li span{
+    color: #3A73A2;
+}
+.client_img{
+    height:90px;
+    width: 260px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.footer{
+    height: 100px;
+    width: 700px;
+    border-top: solid 4px #0087DD;
+    border-left: solid 4px #0087DD;
+    border-right: solid 4px #0087DD;
+    margin-left: 250px;
+    margin-top:20px;
+}
+.footer_info{
+    width: 580px;
+    height: 130px;
+    display: inline-block;
+    height: 80px;
+    vertical-align: top;
+    margin-left: 5px;
+    margin-top: 8px;
+}
+.footer_info p{
+    font-size: 14px;
+}
+.trifecta{
+    height: 90px;
+    width: 100px;
+    display: inline-block;
+    margin-left: 10px;
+    margin-bottom: 8px;
+    margin-top: 10px;
+}
+.footer h3{
+    display: inline-block;
+    color: #0087DD;
+    vertical-align: top;
+}
+.footer_info a{
+    color: #0087DD;
+}
+.bottom_left{
+    width: 178px;
+    height: 280px;
+    margin-top: 26px;
+    background: url(images/ad_background.png);
+}
+.bottom_left h3{
+    font-family: arial;
+    text-align: center;
+    color: white;
+    font-weight: normal;
+    padding-top: 15px;
+}
+.ninja{
+    height: 110px;
+    width: 80px;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.left_button{
+    background-color: #21C5DD;
+    width: 140px;
+    height: 30px;
+    font-size: 13px;
+    border-radius: 8px;
+    color: white;
+    margin-left: 20px;
+    margin-top: 15px;
+}
+.left_button span{
+    font-size: 8px;
+}
+
+
+
